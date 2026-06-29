@@ -7,7 +7,7 @@ This repo analyzes US Census baby name data to explore Michael's 146-year domina
 - **Location:** `resources/yob*.txt`
 - **Format:** CSV with columns `name,gender,count`
 - **Range:** 1880-2025 (146 years, 100+ files, 10M+ records)
-- **Variations tracked:** Michael, Mickey, Miguel, Michel, Michele, Mikhail, Mikael (and nicknames Mike, Mick, Misha, etc.)
+- **Variations tracked:** Michael, Mickey, Miguel, Michel, Michele, Michal, Mikhail, Mikael (and nicknames Mike, Mick, Misha, etc.)
 
 ## Scripts
 

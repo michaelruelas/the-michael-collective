@@ -13,6 +13,7 @@ MICHAEL_VARIATIONS = {
     "Miguel": ["Miguel"],
     "Michel": ["Michel"],
     "Michele": ["Michele"],
+    "Michal": ["Michal"],
     "Mikhail": ["Mikhail", "Mikhael"],
     "Mikael": ["Mikael", "Mikkel", "Mikaere"],
     "Mickey": ["Mickey", "Mick", "Mikey", "Mike", "Mitch", "Mich", "Misha"],
@@ -166,7 +167,8 @@ def generate_slack_report():
     flags = {
         "Michael": "🇺🇸", "Mickey": "🇺🇸", "Miguel": "🇪🇸🇵🇹",
         "Michel": "🇫🇷", "Michele": "🇮🇹", "Mikhail": "🇷🇺",
-        "Mikael": "🇸🇪🇳🇴", "Michiel": "🇳🇱", "Misha": "🇷🇺"
+        "Mikael": "🇸🇪🇳🇴", "Michiel": "🇳🇱", "Misha": "🇷🇺",
+        "Michal": "🇮🇱"
     }
     print("\n*Heritage breakdown:*")
     for variant, _ in sorted_variants[:5]:
@@ -177,6 +179,7 @@ def generate_slack_report():
             "Miguel": "Spanish/Portuguese",
             "Michel": "French",
             "Michele": "Italian",
+            "Michal": "Hebrew (also Polish/Israeli)",
             "Mikhail": "Russian",
             "Mikael": "Nordic",
             "Michiel": "Dutch",

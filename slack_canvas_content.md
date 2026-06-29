@@ -64,6 +64,7 @@
 | Michel | 🇫🇷 French | 14K |
 | Mikhail | 🇷🇺 Russian | 5K |
 | Mikael | 🇸🇪🇳🇴 Nordic | 7K |
+| Michal | 🇮🇱 Hebrew | 8K |
 
 ### Nickname Hierarchy
 `Michael → Mike/Mikey/Mick → Mickey`
@@ -74,6 +75,7 @@
 - 🇮🇹 **Michele** — Italian (masculine in Italy)
 - 🇫🇷 **Michel** — French classic
 - 🇷🇺 **Mikhail (Misha)** — Russian/Eastern European
+- 🇮🇱 **Michal** — Hebrew (also common in Poland/Israel)
 - 🇩🇪 **Michael, Michel** — German
 - 🇳🇱 **Michiel** — Dutch
 - 🇸🇪🇳🇴🇩🇰 **Mikael, Mikkel** — Nordic

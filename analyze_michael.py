@@ -11,6 +11,7 @@ MICHAEL_VARIATIONS = {
     "Michel": ["Michel"],
     "Michele": ["Michele"],
     "Mikhail": ["Mikhail", "Mikhail", "Mikhael"],
+    "Michal": ["Michal"],
     "Mikael": ["Mikael", "Mikkel", "Mikaere"],
     "Micheal": ["Micheal"],
     "Michiel": ["Michiel"],
